@@ -10,3 +10,8 @@
   from = "/contact"
   to = "/contact.html"
   status = 301
+
+[[redirects]]
+  from = "/gallery"
+  to = "/gallery.html"
+  status = 301
